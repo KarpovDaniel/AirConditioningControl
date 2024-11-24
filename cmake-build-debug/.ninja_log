@@ -1,0 +1,23 @@
+# ninja log v6
+6	546	7541719984249782	build.ninja	698fc9756a5ed229
+17	76	7541716533529910	AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+17	76	7541716533529910	CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+17	76	7541716533529910	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+174	8509	7541698100338910	CMakeFiles/AirConditioningControl.dir/main.cpp.obj	2eb96f53fce24c58
+17	76	7541716533529910	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+170	280	7541698100291610	CMakeFiles/AirConditioningControl.dir/AirConditioningControl_autogen/mocs_compilation.cpp.obj	f09fdd4ac709f7d3
+175	1580	7541712309603003	AirConditioningControl.exe	e9a2b8fbca84acb6
+39	204	7541731401144962	CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+39	204	7541731401144962	AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+39	204	7541731401144962	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+39	204	7541731401144962	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+205	20459	7541731402802513	CMakeFiles/AirConditioningControl.dir/main.cpp.obj	2eb96f53fce24c58
+20461	21630	7541731605356912	AirConditioningControl.exe	e9a2b8fbca84acb6
+32	124	7541734499154600	CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+32	124	7541734499154600	AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+32	124	7541734499154600	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+32	124	7541734499154600	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+27	102	7541737516789798	CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+27	102	7541737516789798	AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441
+27	102	7541737516789798	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl_autogen	c2333b5e5dbb9441
+27	102	7541737516789798	C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/AirConditioningControl_autogen/mocs_compilation.cpp	c2333b5e5dbb9441

@@ -1,0 +1,4 @@
+C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl.dir
+C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/karpo/CLionProjects/AirConditioningControl/cmake-build-debug/CMakeFiles/AirConditioningControl_autogen.dir
